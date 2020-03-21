@@ -1,0 +1,1 @@
+pathadd $HOME/.cargo/bin
